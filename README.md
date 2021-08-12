@@ -22,6 +22,7 @@
 
 
 Setup Jenkins job 
+If face npm error -> npm not identify in workspace
 
 
 ## Fork nodejs applicaton onto your repository 
